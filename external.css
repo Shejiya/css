@@ -1,0 +1,23 @@
+		body
+		{
+			background-color: #f0f0f2;
+			margin:auto;
+		}
+		
+		div
+		{
+			font-family: sans-serif;
+            background-color: white;
+            width:600px;
+            margin:80px 300px 150px 400px;
+            padding:25px 30px;
+
+            border-radius: 10px;
+
+		}
+
+		a:link,a:visited
+		{
+			color:#38488f ;
+		}
+	
